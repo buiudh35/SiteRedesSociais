@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-    background: url("/img/fundo-madeira.jpg") no-repeat top center;
+    background: black url("/img/fundo-madeira.jpg") no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -35,23 +35,23 @@ section#celular {
 
 section#notch {
     position: absolute;
-    top: 50%;
+    top: 5.8%;
     left: 50%;
     transform: translate(-50%, -50%);
 
     width: 311px;
-    height: 627px;
+    height: 40px;
     background: url("/img/frame.png");
 }
 
 iframe#home {
     position: relative;
     top: 19px;
-    left: 20px;
+    left: 18px;
 
-    width: 272px;
-    height: 590px;
-    border-radius: 10px;
+    width: 275px;
+    height: 591px;
+    border-radius: 35px;
 } 
 
 section#redes {
