@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-    background: url("/img/fundo-madeira.jpg") no-repeat top center;
+    background: black url("../img/fundo-madeira.jpg") no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -30,7 +30,7 @@ section#celular {
 
     width: 311px;
     height: 627px;
-    background: url("/img/frame-iphone.png");  
+    background: url("../img/frame-iphone.png");  
 }
 
 section#notch {
@@ -41,7 +41,7 @@ section#notch {
 
     width: 311px;
     height: 40px;
-    background: url("/img/frame.png");
+    background: url("../img/frame.png");
 }
 
 iframe#home {
