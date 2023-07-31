@@ -28,23 +28,25 @@ section#celular {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    width: 311px;
-    height: 627px;
-    background: url("../img/frame-iphone.png");  
+    width: 298px;
+    height: 608px;
+    background: url("../img/frame-iphone.png"); 
+
+    margin-top: 5px; 
 }
 
 iframe#home {
     position: relative;
-    top: 19px;
-    left: 18px;
+    top: 14px;
+    left: 13px;
 
-    width: 275px;
-    height: 591px;
+    width: 273px;
+    height: 580px;
     border-radius: 35px;
 } 
 
 section#redes {
-    text-align: right;
+    text-align: ;
 }
 
 section#redes img {
