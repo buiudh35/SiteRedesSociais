@@ -31,8 +31,6 @@ section#celular {
     width: 298px;
     height: 608px;
     background: url("../img/frame-iphone.png"); 
-
-    margin-top: 5px; 
 }
 
 iframe#home {
