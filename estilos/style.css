@@ -24,8 +24,12 @@ main {
 
 section#celular {
     position: absolute;
+<<<<<<< HEAD
 
     left: 43%;
+=======
+    left: 42%;
+>>>>>>> 781e9c874783929ba2238a90877209a5ee644dea
     transform: translate(-50%, 0%);
 
     width: 298px;
