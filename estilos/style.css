@@ -25,7 +25,7 @@ main {
 section#celular {
     position: absolute;
     top: 50%;
-    left: 47%;
+    left: 43%;
     transform: translate(-50%, -50%);
 
     width: 298px;
@@ -46,9 +46,8 @@ iframe#home {
 } 
 
 section#redes {
-    width: 350px;
+    width: 370px;
     margin: auto;
-    padding-top: 30px;
     text-align: right;
 }
 
