@@ -24,15 +24,12 @@ main {
 
 section#celular {
     position: absolute;
-    top: 50%;
-    left: 43%;
-    transform: translate(-50%, -50%);
+    left: 42%;
+    transform: translate(-50%, 0%);
 
     width: 298px;
     height: 608px;
     background: url("../img/frame-iphone.png"); 
-
-    margin-top: 5px; 
 }
 
 iframe#home {
