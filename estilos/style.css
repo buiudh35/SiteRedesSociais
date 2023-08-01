@@ -22,6 +22,16 @@ main {
     position: relative;    
 }
 
+section#logo {
+    margin: auto;
+    padding-top: 25px;
+    text-align: center;
+}
+
+section#logo img {
+    width: 200px;
+}
+
 section#celular {
     position: absolute;
     top: 50%;
@@ -47,7 +57,7 @@ section#redes {
     width: 370px;
     margin: auto;
     text-align: right;
-    padding: 30px;
+    padding-top: 15px;
 }
 
 section#redes img {
